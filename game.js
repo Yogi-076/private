@@ -1,4 +1,5 @@
 const canvas = document.getElementById('game');
+-------------0--------------0---------------
 const ctx = canvas.getContext('2d');
 const scoreEl = document.getElementById('score');
 const restartBtn = document.getElementById('restart');
